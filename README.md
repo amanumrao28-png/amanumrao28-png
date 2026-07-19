@@ -74,18 +74,6 @@
 
 [![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amanumrao28-png&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-# 🚀 Featured Projects
-
-⭐ Personal Portfolio
-
-⭐ Netflix Clone
-
-⭐ Flappy_Bird
-
-⭐ Spotify_Backend
-
-⭐  Backend_project_1
 
 ---
 # 🏅 Coding Profiles
@@ -111,36 +99,3 @@
 </p>
 
 ---
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amanumrao28-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-If you like my work, don't forget to ⭐ Star my repositories!
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer"/>
-
-</p>

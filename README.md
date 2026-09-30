@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Aman Umrao 👋</h1>
  
 <h3 align="center">
-Full Stack MERN Developer&nbsp;|&nbsp;C++ & DSA Enthusiast&nbsp;|&nbsp;Cyber Security Learner
+AI/ML & Full Stack Developer&nbsp;|&nbsp;C++ & DSA Enthusiast&nbsp;|&nbsp;Cloud & DevOps Learner
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F8D46&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student;Building+Scalable+MERN+Applications;Open+to+SDE+%26+Full+Stack+Internships;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F8D46&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student;Building+Scalable+Full-Stack+Applications;Exploring+AI%2FML+%26+Generative+AI;Learning+AWS+%26+Docker;Open+to+SDE+%26+Full+Stack+Internships;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 <p align="center">
   🎓 B.Tech CSE Student &nbsp;•&nbsp; 💼 Open to <b>SDE, Full Stack & Backend Internships</b> &nbsp;•&nbsp; 🇮🇳 India
@@ -27,21 +27,28 @@ Full Stack MERN Developer&nbsp;|&nbsp;C++ & DSA Enthusiast&nbsp;|&nbsp;Cyber Sec
   <img src="https://komarev.com/ghpvc/?username=amanumrao28-png&style=for-the-badge&color=2F8D46" alt="profile views"/>
 </p>
 <br/>
+
 ## 🚀 About Me
  
-- 🔭 Building scalable **Full Stack MERN Applications**
-- 💼 Open to **SDE, Backend & Full Stack Internships**
-- 🌱 Currently learning **TypeScript, Next.js, Docker & Cyber Security**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, DSA, React, Node.js, Express.js & MongoDB**
-- ⚡ Fun fact: I enjoy turning tricky coding problems into clean, working code
+- 🔭 Building scalable **Full-Stack & AI-powered applications**
+- 🤖 Interested in **Machine Learning, Generative AI & AI-powered applications**
+- 💻 Experienced with **MERN Stack, FastAPI & REST APIs**
+- ☁️ Exploring **AWS, Docker, Cloud Computing & DevOps**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 📚 Solved **900+ coding problems** across competitive programming platforms
+- 🌱 Currently improving my skills in **Next.js, TypeScript, Docker, AWS & System Design**
+- 👯 Looking to collaborate on **Open Source, Full-Stack & AI projects**
+- 💼 Open to **SDE, Backend, Full-Stack & AI/ML Internships**
+- ⚡ I enjoy turning complex problems into clean and scalable solutions
 <br/>
+
 ## 💻 Tech Stack
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,docker,git,github,postman,vercel,netlify,vscode&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,firebase,postman,docker,aws,git,github,vercel,netlify,vscode,sklearn,pytorch&perline=8"/>
 </p>
 <br/>
+
 <!--
   📌 FEATURED PROJECTS — currently commented out.
   PROJECT_ONE / PROJECT_TWO below don't exist as real repos, so the cards
@@ -61,6 +68,7 @@ Full Stack MERN Developer&nbsp;|&nbsp;C++ & DSA Enthusiast&nbsp;|&nbsp;Cyber Sec
 -->
  
 <br/>
+
 ## 📊 GitHub Analytics
  
 <!--
@@ -84,9 +92,12 @@ Full Stack MERN Developer&nbsp;|&nbsp;C++ & DSA Enthusiast&nbsp;|&nbsp;Cyber Sec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanumrao28-png&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanumrao28-png&theme=tokyo-night&hide_border=true" alt="Aman's Activity Graph"/>
+  <a href="https://github.com/amanumrao28-png">
+    <img src="https://ghchart.rshah.org/2F8D46/amanumrao28-png" alt="Aman's GitHub Contribution Graph"/>
+  </a>
 </p>
 <br/>
+
 ## 🏅 Coding Profiles
  
 <p align="center">

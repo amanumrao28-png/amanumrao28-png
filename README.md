@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8D46,100:0D1117&height=200&section=header&text=Aman%20Umrao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB07C,100:0D1117&height=200&section=header&text=Aman%20Umrao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ML%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Cloud%20and%20DevOps&descAlignY=58&descSize=18" width="100%" alt="header">
 
 <a href="https://github.com/amanumrao28-png">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F8D46&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+ABES+Engineering+College;Building+Scalable+Full-Stack+Applications;Exploring+AI%2FML+%26+Generative+AI;Learning+AWS+%26+Docker;Open+to+SDE+%26+Full+Stack+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F8D46&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Full-Stack+Developer;B.Tech+CSE+Student+%40+ABES+Engineering+College;Data+Structures+%26+Problem+Solving;Cloud+Computing+%26+AWS+Learner;Open+to+SDE+%26+Full-Stack+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ const aman = {
   college: "ABES Engineering College, Ghaziabad",
   location: "Ghaziabad, India 🇮🇳",
   focus: ["Full Stack Development", "AI/ML", "DSA", "Cloud & DevOps"],
-  currentlyLearning: ["Next.js", "TypeScript", "Docker", "AWS", "System Design"],
+  currentlyLearning: ["Deep Learning", "Docker", "AWS", "System Design"],
   problemsSolved: "900+",
   openTo: ["SDE", "Backend", "Full Stack", "AI/ML Internships"],
   funFact: "I enjoy turning complex problems into clean, scalable solutions ⚡"
@@ -40,7 +40,7 @@ const aman = {
 - 🔭 Building scalable **Full-Stack & AI-powered applications**
 - 💻 Hands-on with the **MERN Stack, FastAPI & REST APIs**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🌱 Currently levelling up in **Next.js, TypeScript, Docker, AWS & System Design**
+- 🌱 Currently levelling up in **Deep Learning, Docker, AWS & System Design**
 - 👯 Looking to collaborate on **Open Source, Full-Stack & AI projects**
 
 ---
@@ -54,14 +54,12 @@ const aman = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -94,10 +92,10 @@ const aman = {
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 [**Movie Recommendation App**](https://github.com/amanumrao28-png/Movie_Recommendation_App) | Discover movies with a recommendation-driven interface | JavaScript |
+| 💰 [**Expense Tracker**](https://github.com/amanumrao28-png/student-expense-ai) | Track and manage student expenses with an AI-powered interface | React · FastAPI · Supabase · AI(Gemma) |
+| 🎬 [**Movie Recommendation App**](https://github.com/amanumrao28-png/Movie_Recommendation_App) | Discover movies with a recommendation-driven interface | React · FastAPI · Supabase |
 | 🏦 [**Bank Transaction System**](https://github.com/amanumrao28-png/Bank_Transaction_System) | Backend system for handling bank transactions | Node.js · MongoDB |
 | 🎵 [**Spotify Backend**](https://github.com/amanumrao28-png/Spotify-Backend) | REST API backend inspired by Spotify | Node.js · Express |
-| 🐦 [**Flappy Bird Game**](https://github.com/amanumrao28-png/Flappy-Bird-Game) | Classic Flappy Bird built from scratch | JavaScript |
 | 🍿 [**Netflix Clone**](https://github.com/amanumrao28-png/Netflix-Clone) | Responsive Netflix UI clone — my first repo | HTML · CSS |
 | 🌐 [**Portfolio**](https://github.com/amanumrao28-png/New-Portfolio) | My personal developer portfolio | HTML · CSS |
 
@@ -111,8 +109,6 @@ const aman = {
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanumrao28-png&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanumrao28-png&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://ghchart.rshah.org/2F8D46/amanumrao28-png" alt="Contribution Graph" />
 
 </div>
 
@@ -139,7 +135,7 @@ I'm open to **internships, open-source collaboration and technical discussions**
 
 <div align="center">
 
-*⭐ If you like my work, consider giving a star to my repositories — thanks for stopping by! 🚀*
+🚀 Thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F8D46&height=100&section=footer" width="100%" alt="footer" />
 
